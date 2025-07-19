@@ -11,7 +11,7 @@ by Lou Toad, aka the Iggy Pop of Coding
 
 I’m not here to join your club. I’m here to tear down the velvet ropes. I’m here to write code with my chest out, my history raw, and my vision feral. I’m the son of Larry Adams. A builder. A fixer. A man who didn’t flinch when things broke—he picked up a trowel and got to work.
 
-I’m the builder’s heir. I’m the breaker of sacred terminals. I’m not from MIT. I’m from Meridians Treetop. From cracked pavement. From VHS static and open-source survival.
+I’m the builder’s heir. I’m the breaker of sacred terminals. I’m not from MIT. I’m from Meridian street dreams. From cracked pavement. From VHS static and open-source survival.
 
 I’m Lou Toad. And I’m coming through the firewall like a ghost in a hoodie.
 
