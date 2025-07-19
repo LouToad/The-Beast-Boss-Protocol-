@@ -13,7 +13,7 @@ I’m not here to join your club. I’m here to tear down the velvet ropes. I’
 
 I’m the builder’s heir. I’m the breaker of sacred terminals. I’m not from MIT. I’m from Meridian street dreams. From cracked pavement. From VHS static and open-source survival.
 
-I’m Lou Toad. And I’m coming through the firewall like a ghost in a hoodie.
+I’m Lou Toad. And I’m coming through the firewall like a ghost with a grudge.
 
 
 ---
