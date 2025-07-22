@@ -1,115 +1,63 @@
-The Beast Boss Protocol
+# 🐍 The Beast Boss Protocol  
+### _Support Stack to Security Track – by Laurence Todisco_
 
-A README Manifesto for the New Cyber Order
+Welcome to my hands-on project hub — part lab log, part toolkit, part manifesto.
 
-by Lou Toad, aka the Iggy Pop of Coding
-
-
----
-
-👊 Who I Am
-
-I’m not here to join your club. I’m here to tear down the velvet ropes. I’m here to write code with my chest out, my history raw, and my vision feral. I’m the son of Larry Adams. A builder. A fixer. A man who didn’t flinch when things broke—he picked up a trowel and got to work.
-
-I’m the builder’s heir. I’m the breaker of sacred terminals. I’m not from MIT. I’m from Meridian street dreams. From cracked pavement. From VHS static and open-source survival.
-
-I’m Lou Toad. And I’m coming through the firewall like a ghost with a grudge.
-
+I'm Laurence Todisco, a Technical Support Engineer with a growing specialization in cybersecurity. This repo is where I experiment, learn, and build across support, scripting, log analysis, and system triage — with a long-term goal of joining a SOC or SecOps team.
 
 ---
 
-🎤 What This Is
+## 🔐 Why This Exists
 
-This is not a portfolio. This is not a CV. This is a disruption protocol. A README for the rooms I’m about to enter and refactor. If you think I don’t belong here— you’ve already lost the thread.
-
-I’m not asking permission. I’m not looking for keys. I am the root user now.
-
+In the world of tech support, you're the first to see when systems break. I believe that's also where cybersecurity awareness is born. This repo is a personal proving ground for tools, concepts, and challenges at the intersection of support and defense.
 
 ---
 
-🔥 Who This Is For
+## 📂 Contents
 
-The artists who speak bash and paint in Python.
+### 1. **Log Parsing + Incident Tools**
+- `/log-parser/` – Python CLI script to analyze `auth.log`, filter failed logins, suspicious IPs
+- `/sample-logs/` – anonymized TryHackMe-style system logs for triage simulation
 
-The kids who grew up on broken routers and cracked software.
+### 2. **Wireshark + PCAP Analysis**
+- `/pcap-analysis/` – Snapshots of malicious network traffic from lab work
+- Notes on identifying C2 traffic, port scans, ARP spoofing
 
-The DIY punks who see the command line as a canvas.
+### 3. **SIEM + Security Triage**
+- `/splunk-snippets/` – Saved search queries, detection logic, and notes
+- `/incident-reports/` – TryHackMe-style lab walkthroughs simulating SOC tasks
 
-The former retail workers who now grep through injustice.
-
-The queers, the poets, the immigrants, the neurodivergents, the broke, the pissed off, the brilliant.
-
-
-This README is for you. Not the old guard. Not the gatekeepers. Not the committee.
-
-
----
-
-🛠️ My Stack
-
-Linux: I build from the kernel out.
-
-Python: My syntax is blues riff and static fuzz.
-
-Bash: Because I believe in knowing what the machine feels.
-
-Splunk / Wireshark / TryHackMe: These are my streetlights in the dark.
-
-Markdown / ASCII / Lo-fi: I make art with what I have.
-
-
-I do security like I do music: dirty, instinctive, layered with truth.
-
+### 4. **Utility Scripts for Support**
+- `/vpn-checker/` – Bash script for basic VPN connectivity checks
+- `/api-tester/` – Postman/requests-based API smoke test (JSON-based auth flow)
 
 ---
 
-🧱 My Ethos
+## 🚧 In Progress
 
-Structure reveals intent.
-
-Repair is resistance.
-
-Gatekeeping is cowardice with credentials.
-
-The best revenge is showing up brilliant.
-
-Every system is just another wall to climb.
-
-
-You say I don’t belong here? I say: try and stop me.
-
+- Powershell variants of log tools  
+- Sentinel playbooks  
+- Python-based alert correlation engine  
+- Custom “Support to SOC” roadmap (PDF coming soon)
 
 ---
 
-🚪 Entry Points
+## 🧠 My Philosophy
 
-I’ve built things. Broken things. Written books no publisher would touch until I bled them into Amazon. I’ve stood outside every room until I kicked the door in with a self-made key.
+> “Support is frontline reconnaissance. The logs tell the story — we just need to listen.”
 
-Here’s what you’ll find in my repos:
-
-Security scripts that read like poetry.
-
-Network analysis with a punk backbone.
-
-Commentary on structure, decay, and defiance.
-
-Tools for the people, not for profit.
-
-
-This isn’t an application. This is a warning.
-
-Lou Toad is in your system. And I’m not logging out.
-
+I believe in learning by building, breaking, fixing, and documenting. I don't pretend to know everything, but I'm determined to learn with depth, care, and creativity. Whether it's an error code or a misconfigured firewall, there's a human and a system behind every problem.
 
 ---
 
-🖖 Final Words
+## 🛰 Connect
 
-To the bootlickers, the blue bloods, the tech bros in Patagonia vests: stay seated. To the misfits, the dreamers, the ones with cracked screens and cracked voices: this is your signal.
+[📫 Email](mailto:larrytodisco@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) | [💻 TryHackMe](https://tryhackme.com/p/LaurenceT)
 
-Let’s burn the old structure down. Then build something better from the ash.
+---
 
-#BeastBossProtocol #DreamInTerminalGreen
+> “The Beast Boss Protocol” began as a metaphor for learning under pressure.  
+Now, it's my roadmap to becoming the kind of engineer who doesn’t just fix problems — but **detects, defends, and designs better systems**.
 
 
 
